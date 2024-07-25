@@ -21,7 +21,7 @@ Thank you once again for giving us this golden opportunity of Hackfest'24. Your 
 
 Warm regards,
 
-Antriksh Kumar (team leader).
+Amit Kumar (team Member).
 
 HotCoders
 
